@@ -8,6 +8,15 @@ using namespace std;
 
 class Field
 {
+public:
+  bool receiveBone() const;
+  bool double isPlayed() const;
+  bool availSpace() const;
+  void print() const;
+  
+
+
+private:
   
 
 
